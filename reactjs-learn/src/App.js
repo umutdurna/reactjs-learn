@@ -9,16 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="content">
-        <h1>{ title }</h1>
-        <p>{ likes } Kez Beğenildi.</p>
-
-        <p>{10}</p>
-        <p>{"Umut Recep"}</p>
-
-        <p>{[1,2,3,4,5]}</p>
-
-        <a href={links}>Google Site</a>
-
+        <h1>App Components</h1>
       </div>
     </div>
   );
